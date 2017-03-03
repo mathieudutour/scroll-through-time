@@ -2,7 +2,7 @@
 
 Two fingers (horizontal) scroll moves through time instead of space
 
-![demo](./screencast.gif)
+![demo](https://github.com/mathieudutour/scroll-through-time/raw/master/screencast.gif)
 
 ## Why?
 ![Because we can](https://imgs.xkcd.com/comics/borrow_your_laptop.png)
