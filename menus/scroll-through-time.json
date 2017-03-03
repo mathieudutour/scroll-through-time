@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle scroll-through-time",
+        "command": "scroll-through-time:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "scroll-through-time",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "scroll-through-time:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

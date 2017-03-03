@@ -1,0 +1,19 @@
+{
+  "name": "scroll-through-time",
+  "main": "./lib/scroll-through-time",
+  "version": "0.0.0",
+  "description": "Two fingers scroll moves through time instead of space",
+  "keywords": [
+    "scroll",
+    "time",
+    "space",
+    "xkcd"
+  ],
+  "repository": "https://github.com/mathieudutour/scroll-through-time",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
