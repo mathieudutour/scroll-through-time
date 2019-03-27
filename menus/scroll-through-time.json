@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "scroll-through-time",
+          "label": "Scroll Through Time",
           "submenu": [
             {
               "label": "Toggle",

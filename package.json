@@ -1,7 +1,7 @@
 {
   "name": "scroll-through-time",
   "main": "./lib/scroll-through-time",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Two fingers scroll moves through time instead of space",
   "keywords": [
     "scroll",
